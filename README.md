@@ -1,5 +1,7 @@
 # LLPS_codes
 
+Zenodo DOI - https://doi.org/10.5281/zenodo.8147618
+
 Instructions for running MATLAB codes-
 Sumon Sahu, May 5th 2023
 
