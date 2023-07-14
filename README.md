@@ -21,3 +21,5 @@ Notes - For further analysis, save the profile array and norm_r_array matrices i
 Open plot_file_for_radial_distribution.m to bin the radial intensity profiles.
 Provide path, excel file name and row-columns of interest.
 Output normalized bins along radial direction are stored in ‘r_norm’ and corresponding mean and std intensity values are stored in ‘Yn_array_mean_final’ and ‘Yn_array_std_final’. Plot these to see the intensity distribution.
+
+The 'folder' contains sample files to run for test.
