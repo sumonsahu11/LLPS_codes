@@ -1,7 +1,4 @@
 # LLPS_codes
-
-Zenodo DOI - https://doi.org/10.5281/zenodo.8147618
-
 Instructions for running MATLAB codes-
 Sumon Sahu, May 5th 2023
 
@@ -25,3 +22,6 @@ Provide path, excel file name and row-columns of interest.
 Output normalized bins along radial direction are stored in ‘r_norm’ and corresponding mean and std intensity values are stored in ‘Yn_array_mean_final’ and ‘Yn_array_std_final’. Plot these to see the intensity distribution.
 
 The 'folder' contains sample files to run for test.
+
+Zenodo DOI - https://doi.org/10.5281/zenodo.8147618
+
